@@ -1,5 +1,4 @@
-# learning
+#Vuetify3
 
-Le nommage des branches commencera par /learning suivit du /sujet puis du /détail
-
-Ces branches seront utilisées pour apprendre, tester et découvrir de nouvelles technos, principalement gravitant autour du framework Vue.js mais pas uniquement.
+Découverte de vuetify3 via la formation yt suivante
+https://www.youtube.com/watch?v=PzXaFXgsp60
